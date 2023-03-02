@@ -1,4 +1,5 @@
 /*** Publishing: Hide things that aren't very useful for a read-only view */
+:default-home {:page "Logseq個人網站首頁"}
 
 /** Hide page properties (public pages will always have public: true) */
 .content .pre-block { display: none; }
